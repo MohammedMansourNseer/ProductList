@@ -1,12 +1,4 @@
 
-GitHub Profile README Generator
-Star this repo9717
-Fork on GitHub2352
-back to edit
-copy-markdown
-download markdown
-download backup
-preview
 <h1 align="center">Hi 👋, I'm Mohammed Mansour</h1>
 <h3 align="center">A passionate android developer from Egypt</h3>
 
